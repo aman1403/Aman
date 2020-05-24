@@ -1,10 +1,10 @@
 <span id="a">Aman@</span>:<span id="b">~</span><span id="c">$</span> cd Aman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Aman
 <span id="a">Aman@</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Aman.txt<br/><br/>
-My favorite code quote, "<span id="k">Deve</span>". <!-- sjkfhskjf -->
+My favorite one is, "<span id="k">while(!(succeed = try()))</span>". <!-- sjkfhskjf -->
 
 Hey There! I am <span id="a">Aman</span>.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am currently pursuing my Bachelor's in Computer Science and Engineering from <span id="a">IIT Dharwad</span>in India.<br></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>I love to learn different technologies & solve interesting problems.</p>  
+
+<p>An ambitious computer science engineering junior, ever in awe of the wonders that <span id="a">0s & 1s</span> could create  passionate about <span id="a">Open Source Software & Product Development</span> with proven experience in web app frameworks and software development.</p>
 <p>I love to code, solve interesting mathematics problems, and play Cricket, and maybe table tennis too.
 
 I'm an experienced Developer with a demonstrated history of working in the computer software industry. Skilled in <span id="a">Python</span>,<span id="a">C++</span>,<span id="a">FullStack Development</span> and <span id="a">Machine Learning</span>.
