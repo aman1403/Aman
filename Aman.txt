@@ -4,16 +4,16 @@ My favorite one is "<span id="k">while(!(succeed = try()))</span>". <!-- sjkfhsk
 
 Hey There! I am <span id="a">Aman</span>.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<p>An ambitious computer science engineering junior, ever in awe of the wonders that <span id="a">0s & 1s</span> could create  passionate about <span id="a">Open Source Software & Product Development</span> with proven experience in web app frameworks and software development.</p>
+<p>An ambitious computer science engineering junior, ever in awe of the wonders that <span id="a">0s & 1s</span> could create,   passionate about <span id="a">Open Source Software & Product Development</span> with proven experience in web app frameworks and software development.</p>
 <p>I love to code, solve interesting mathematics problems, and play Cricket, and maybe table tennis too.
 
-I'm an experienced Developer with a demonstrated history of working in the computer software industry. Skilled in <span id="a">Python</span>, <span id="a"> C++</span>, <span id="a"> Javascript</span>, <span id="a"> FullStack Development</span> and <span id="a"> Machine Learning</span>.
+I'm an experienced Developer with a demonstrated history of working in the computer software industry. Skilled in <span id="a">Python</span>, <span id="a">&nbsp;C++</span>, <span id="a">&nbsp;Javascript</span>, <span id="a">&nbsp;FullStack Development</span> and <span id="a">Machine Learning</span>.
 
 View my resume <a href="https://drive.google.com/file/d/1_AednpmfLI7KQIIjdKafFIm8lzcKgX8Q/view?usp=sharing">here</a><br>
 
 I am looking for interesting roles & opportunites relevant to my profile which gives me an opportunity to be involved in amazing projects and If you are looking for someone like me or know any opportunities, feel free to send me an email at 
 <a href="mailto:aluthra1403@gmail.com"> aluthra1403@gmail.com</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-<p> Here are few more places you can connect with me: <br> <a href="https://github.com/aman1403">Github ,</a><&nbsp;><&nbsp;><a href="https://www.linkedin.com/in/aman-luthra-7b3873179/">Linkedin</a>
+<p> Here are few more places you can connect with me: <a href="https://github.com/aman1403">Github,</a>&nbsp;&nbsp<a href="https://www.linkedin.com/in/aman-luthra-7b3873179/">Linkedin</a>
 
 <span id="a">Aman@</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
