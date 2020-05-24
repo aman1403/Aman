@@ -1,0 +1,20 @@
+<span id="a">Aman@</span>:<span id="b">~</span><span id="c">$</span> cd Aman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">Aman@</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Aman.txt<br/><br/>
+My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
+
+Hey There! I am Aman.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I am currently pursuing my Bachelor's in Computer Science and Engineering from IIT Dharwad in India.<br></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I love to learn different technologies & solve interesting problems<br>
+
+I have experience in FullStack Development, Software Development, Machine Learning, Database Management.<br> 
+
+I'm an experienced Developer with a demonstrated history of working in the computer software industry. Skilled in Python,C++, Web Development and Machine Learning
+
+View my resume <a href="https://drive.google.com/file/d/1_AednpmfLI7KQIIjdKafFIm8lzcKgX8Q/view?usp=sharing">here</a><br>
+
+I am looking for interesting roles & opportunites relevant to my profile which gives me an opportunity to be involved in amazing projects and If you are looking for someone like me or know any opportunities, feel free to send me an email at 
+<a href="aluthra1403@gmail.com"> aluthra1403@gmail.com</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Here are few more places you can connect with me: <br> <a href="https://github.com/aman1403">Github</a>    <a href="https://www.linkedin.com/in/aman-luthra-7b3873179/">Linkedin</a>
+
+<p>Cheers!</p>
