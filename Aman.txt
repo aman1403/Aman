@@ -1,6 +1,6 @@
 <span id="a">Aman@</span>:<span id="b">~</span><span id="c">$</span> cd Aman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">Aman@</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Aman.txt<br/><br/>
-My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">Deve</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Aman.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am currently pursuing my Bachelor's in Computer Science and Engineering from IIT Dharwad in India.<br></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
